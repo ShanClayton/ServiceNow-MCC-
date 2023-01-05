@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Christmas Producer">f706f34c474c611039eada97436d435d</sc_cat_item>
+        <sc_category display_value="Christmas">d95e5ef347bb111039eada97436d43d4</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-24 06:02:51</sys_created_on>
+        <sys_id>d796fb4c474c611039eada97436d438e</sys_id>
+        <sys_name>Christmas.Christmas Producer</sys_name>
+        <sys_package display_value="Merry Creatives Consultations " source="x_903622_merry_c_0">e2f1f4a7473b911039eada97436d4335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Merry Creatives Consultations ">e2f1f4a7473b911039eada97436d4335</sys_scope>
+        <sys_update_name>sc_cat_item_category_d796fb4c474c611039eada97436d438e</sys_update_name>
+    </sc_cat_item_category>
+</record_update>

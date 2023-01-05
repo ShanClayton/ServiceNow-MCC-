@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">0807b8314784a11039eada97436d43c1</sp_column>
+        <sp_widget display_value="Form">fd1f4ec347730200ba13a5554ee490c0</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-29 03:22:40</sys_created_on>
+        <sys_id>e5e109b94784a11039eada97436d437c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Merry Creatives Consultations " source="x_903622_merry_c_0">e2f1f4a7473b911039eada97436d4335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Merry Creatives Consultations ">e2f1f4a7473b911039eada97436d4335</sys_scope>
+        <sys_update_name>sp_instance_e5e109b94784a11039eada97436d437c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-29 03:22:40</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=e5e109b94784a11039eada97436d437c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Merry Creatives Consultations ">e2f1f4a7473b911039eada97436d4335</application>
+        <file_path/>
+        <instance_id>c68ab043dbfc1910f492c5970596191c</instance_id>
+        <instance_name>dev129973</instance_name>
+        <name>sp_instance_e5e109b94784a11039eada97436d437c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>2</order><roles/><short_description/><size>md</size><sp_column display_value="1">0807b8314784a11039eada97436d43c1</sp_column><sp_widget display_value="Form">fd1f4ec347730200ba13a5554ee490c0</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-29 03:22:40</sys_created_on><sys_id>e5e109b94784a11039eada97436d437c</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Merry Creatives Consultations " source="x_903622_merry_c_0">e2f1f4a7473b911039eada97436d4335</sys_package><sys_policy/><sys_scope display_value="Merry Creatives Consultations ">e2f1f4a7473b911039eada97436d4335</sys_scope><sys_update_name>sp_instance_e5e109b94784a11039eada97436d437c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-29 03:22:40</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=e5e109b94784a11039eada97436d437c"/></record_update>]]></payload>
+        <payload_hash>471297467</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>aef1f4a7473b911039eada97436d4337</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-29 03:22:40</sys_created_on>
+        <sys_id>a1e109b94784a11039eada97436d437f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1855be7415f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-29 03:22:40</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>e9e109b9dc84a1104d3f7aacfbc4197e</update_guid>
+        <update_guid_history>e9e109b9dc84a1104d3f7aacfbc4197e:471297467</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">95f149b94784a11039eada97436d43ed</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-29 03:22:55</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>5bcb1bc07f844bec9671f9acfb6dcf11</sys_id>
+        <sys_metadata>e5e109b94784a11039eada97436d437c</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="Merry Creatives Consultations " source="x_903622_merry_c_0">e2f1f4a7473b911039eada97436d4335</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Merry Creatives Consultations ">e2f1f4a7473b911039eada97436d4335</sys_scope>
+        <sys_scope_delete display_value="">587e6682a67645e99cbefbf7a62a2849</sys_scope_delete>
+        <sys_update_name>sp_instance_e5e109b94784a11039eada97436d437c</sys_update_name>
+        <sys_update_version display_value="sp_instance_e5e109b94784a11039eada97436d437c">a1e109b94784a11039eada97436d437f</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Assorted 50ct. 2&quot; Farmhouse Ball Ornament Set">51ef623747fb111039eada97436d4391</sc_cat_item>
+        <sc_category display_value="Christmas">d95e5ef347bb111039eada97436d43d4</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-23 06:17:43</sys_created_on>
+        <sys_id>ab60bef347fb111039eada97436d430e</sys_id>
+        <sys_name>Christmas.Assorted 50ct. 2" Farmhouse Ball Ornament Set</sys_name>
+        <sys_package display_value="Merry Creatives Consultations " source="x_903622_merry_c_0">e2f1f4a7473b911039eada97436d4335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Merry Creatives Consultations ">e2f1f4a7473b911039eada97436d4335</sys_scope>
+        <sys_update_name>sc_cat_item_category_ab60bef347fb111039eada97436d430e</sys_update_name>
+    </sc_cat_item_category>
+</record_update>

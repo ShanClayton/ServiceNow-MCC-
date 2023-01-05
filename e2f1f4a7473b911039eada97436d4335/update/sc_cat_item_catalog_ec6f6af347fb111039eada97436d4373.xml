@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Deer with Snowflakes Ornaments">2dfe6aff47bb111039eada97436d437e</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-23 06:13:09</sys_created_on>
+        <sys_id>ec6f6af347fb111039eada97436d4373</sys_id>
+        <sys_name>Service Catalog.Deer with Snowflakes Ornaments</sys_name>
+        <sys_package display_value="Merry Creatives Consultations " source="x_903622_merry_c_0">e2f1f4a7473b911039eada97436d4335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Merry Creatives Consultations ">e2f1f4a7473b911039eada97436d4335</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_ec6f6af347fb111039eada97436d4373</sys_update_name>
+    </sc_cat_item_catalog>
+</record_update>

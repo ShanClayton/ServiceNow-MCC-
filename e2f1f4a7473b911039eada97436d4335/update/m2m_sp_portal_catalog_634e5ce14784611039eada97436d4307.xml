@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="Technical Catalog">742ce428d7211100f2d224837e61036d</sc_catalog>
+        <sp_portal display_value="Merry Creatives ">e59d10a14784611039eada97436d437c</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-28 06:08:41</sys_created_on>
+        <sys_id>634e5ce14784611039eada97436d4307</sys_id>
+        <sys_name>Technical Catalog.Merry Creatives </sys_name>
+        <sys_package display_value="Merry Creatives Consultations " source="x_903622_merry_c_0">e2f1f4a7473b911039eada97436d4335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Merry Creatives Consultations ">e2f1f4a7473b911039eada97436d4335</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_634e5ce14784611039eada97436d4307</sys_update_name>
+    </m2m_sp_portal_catalog>
+</record_update>

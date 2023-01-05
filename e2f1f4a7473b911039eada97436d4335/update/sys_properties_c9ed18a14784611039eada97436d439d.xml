@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>If true, portal css would be in rem units</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.service_portal.resize_text.mcc.enable_rem_conversion</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-28 06:06:51</sys_created_on>
+        <sys_id>c9ed18a14784611039eada97436d439d</sys_id>
+        <sys_name>glide.service_portal.resize_text.mcc.enable_rem_conversion</sys_name>
+        <sys_package display_value="Merry Creatives Consultations " source="x_903622_merry_c_0">e2f1f4a7473b911039eada97436d4335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Merry Creatives Consultations ">e2f1f4a7473b911039eada97436d4335</sys_scope>
+        <sys_update_name>sys_properties_c9ed18a14784611039eada97436d439d</sys_update_name>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=c9ed18a14784611039eada97436d439d"/>
+</record_update>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Consultations ">18a2b0e7473b911039eada97436d4392</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Consultations s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_903622_merry_c_0_consultations</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_903622_merry_c_0.consultations_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 02:29:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>50a2b0e7473b911039eada97436d4396</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Consultations s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Merry Creatives Consultations " source="x_903622_merry_c_0">e2f1f4a7473b911039eada97436d4335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Merry Creatives Consultations ">e2f1f4a7473b911039eada97436d4335</sys_scope>
+        <sys_update_name>sys_app_module_50a2b0e7473b911039eada97436d4396</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-22 02:29:37</sys_updated_on>
+        <timeline_page/>
+        <title>Consultations s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Merry Creatives Consultations ">e2f1f4a7473b911039eada97436d4335</application>
+        <file_path/>
+        <instance_id>c68ab043dbfc1910f492c5970596191c</instance_id>
+        <instance_name>dev129973</instance_name>
+        <name>sys_app_module_50a2b0e7473b911039eada97436d4396</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Consultations ">18a2b0e7473b911039eada97436d4392</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Consultations s</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_903622_merry_c_0_consultations</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_903622_merry_c_0.consultations_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-22 02:29:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>50a2b0e7473b911039eada97436d4396</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Consultations s</sys_name><sys_overrides/><sys_package display_value="Merry Creatives Consultations " source="x_903622_merry_c_0">e2f1f4a7473b911039eada97436d4335</sys_package><sys_policy/><sys_scope display_value="Merry Creatives Consultations ">e2f1f4a7473b911039eada97436d4335</sys_scope><sys_update_name>sys_app_module_50a2b0e7473b911039eada97436d4396</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-22 02:29:37</sys_updated_on><timeline_page/><title>Consultations s</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1896507594</payload_hash>
+        <record_name>Consultations s</record_name>
+        <reverted_from/>
+        <source>aef1f4a7473b911039eada97436d4337</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 02:29:38</sys_created_on>
+        <sys_id>90a2b0e7473b911039eada97436d4399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18537aa2e6d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-22 02:29:38</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d8a2b0e79d3b9110b50ef8e2f756d598</update_guid>
+        <update_guid_history>d8a2b0e79d3b9110b50ef8e2f756d598:1896507594</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Consultations s">dc7141a3477b911039eada97436d4304</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 03:34:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0ac7ccdb8b5d4f5288cb23042ff0be84</sys_id>
+        <sys_metadata>50a2b0e7473b911039eada97436d4396</sys_metadata>
+        <sys_name>Consultations s</sys_name>
+        <sys_package display_value="Merry Creatives Consultations " source="x_903622_merry_c_0">e2f1f4a7473b911039eada97436d4335</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Merry Creatives Consultations ">e2f1f4a7473b911039eada97436d4335</sys_scope>
+        <sys_scope_delete display_value="">587e6682a67645e99cbefbf7a62a2849</sys_scope_delete>
+        <sys_update_name>sys_app_module_50a2b0e7473b911039eada97436d4396</sys_update_name>
+        <sys_update_version display_value="sys_app_module_50a2b0e7473b911039eada97436d4396">90a2b0e7473b911039eada97436d4399</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

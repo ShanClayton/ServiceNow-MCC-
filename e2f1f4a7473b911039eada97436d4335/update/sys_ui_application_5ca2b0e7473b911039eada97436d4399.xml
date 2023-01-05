@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Consultations </name>
+        <order/>
+        <roles>x_903622_merry_c_0.consultations_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 02:29:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5ca2b0e7473b911039eada97436d4399</sys_id>
+        <sys_name>Consultations </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Merry Creatives Consultations " source="x_903622_merry_c_0">e2f1f4a7473b911039eada97436d4335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Merry Creatives Consultations ">e2f1f4a7473b911039eada97436d4335</sys_scope>
+        <sys_update_name>sys_ui_application_5ca2b0e7473b911039eada97436d4399</sys_update_name>
+    </sys_ui_application>
+</record_update>

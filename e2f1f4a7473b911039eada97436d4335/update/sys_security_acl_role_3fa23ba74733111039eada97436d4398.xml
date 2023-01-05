@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 16:28:43</sys_created_on>
+        <sys_id>3fa23ba74733111039eada97436d4398</sys_id>
+        <sys_name>x_903622_merry_c_0_holiday_decor.x_903622_merry_c_0.holiday_decor_user</sys_name>
+        <sys_package display_value="Merry Creatives Consultations " source="x_903622_merry_c_0">e2f1f4a7473b911039eada97436d4335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Merry Creatives Consultations ">e2f1f4a7473b911039eada97436d4335</sys_scope>
+        <sys_security_acl display_value="x_903622_merry_c_0_holiday_decor">37a23ba74733111039eada97436d4396</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3fa23ba74733111039eada97436d4398</sys_update_name>
+        <sys_user_role display_value="x_903622_merry_c_0.holiday_decor_user" name="x_903622_merry_c_0.holiday_decor_user">efa23ba74733111039eada97436d4350</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
